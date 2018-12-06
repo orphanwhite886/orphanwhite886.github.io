@@ -1,0 +1,42 @@
+form{background-color:#484442;
+ width:350px;
+height:440px; 
+font-family:verdana;
+ left:5px;
+ margin-left:200px;}
+p{color:white;}
+#reg {border-radius:5px;
+ margin-left:100px; 
+ background-color:firebrick;
+ font-size:15px; 
+ height: 37px; 
+ width:181px; 
+ color:white; 
+ border: 2px solid firebrick;
+ letter-spacing:1px;
+ cursor:pointer;
+ }
+#reg:hover{box-shadow: 0 0 5px 2px red;}
+H2{color:white;
+padding-bottom:5px;
+text-align:center;
+padding-top:20px;
+padding-bottom:20px;
+}
+.h2{border-bottom:1px solid #3B3735;
+}
+#fam{margin-left: 50px}
+#famm{margin-left: 9px}
+#famn{margin-left: 25px;
+border-radius:5px;
+width:178px;
+border:5px solid white;}
+#famb{margin-left: 39px}
+#famv{margin-left: 23px}
+#famc{margin-left: 44px; 
+      width: 168px}
+input{border-radius:5px;
+border:5px solid white;}
+label{color:white; 
+	margin-left:13px;
+    font-family:verdana}

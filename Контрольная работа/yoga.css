@@ -1,0 +1,10 @@
+body{background-color:white}
+h2{text-align:center;
+   text-transform:uppercase}
+.par{padding-left:15px}
+p{font-family:Verdana}
+li{font-family:Verdana;
+   font-weight:bold}
+
+.poz2{position:absolute;
+      left:300px}
